@@ -1,0 +1,48 @@
+.king {
+    background-color: #E8E8E8;
+    width: 90%;
+    height: 90%;
+}
+
+.body {
+    background-color: #E8E8E8;
+    font-family: 'Oswald', sans-serif;
+}
+
+.logo {
+    width: 90%;
+    height: 90%;
+}
+
+.hr {
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+hr {
+    width: 70%;
+}
+
+#hr {
+    margin-top: 0;
+    width: 50%;
+}
+
+.mycol {
+    font-size: 10px;
+}
+
+.previewshop {
+    background-image: url(https://img.freepik.com/free-photo/old-black-background-grunge-texture-blackboard-chalkboard-concrete_1258-52289.jpg?w=2000);
+    background-size: cover;
+}
+
+#gold {
+    position: relative;
+    height: 270px;
+    bottom: -30px;
+}
+
